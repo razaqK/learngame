@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/learngame.iml" filepath="$PROJECT_DIR$/.idea/learngame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentimentApp/.idea/sentimentApp.iml" filepath="$PROJECT_DIR$/../sentimentApp/.idea/sentimentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentiment_app/.idea/sentiment_app.iml" filepath="$PROJECT_DIR$/../sentiment_app/.idea/sentiment_app.iml" />
+    </modules>
+  </component>
+</project>
